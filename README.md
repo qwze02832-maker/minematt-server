@@ -1,1 +1,0 @@
-# minematt-server
